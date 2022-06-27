@@ -1,6 +1,6 @@
 # employeeTracker
 
-<h1 align="center">README generator 👋</h1>
+<h1 align="center">Employee Tracker 👋</h1>
 
 ![badge](https://img.shields.io/badge/license--red)<br />
 https://drive.google.com/file/d/1ZSaOhq1IOS9pOSAzBKIxTvApx2HRbewC/view
